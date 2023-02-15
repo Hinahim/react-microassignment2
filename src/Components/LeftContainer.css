@@ -1,0 +1,42 @@
+.heading {
+    color: #FFFFFF;
+
+    position: absolute;
+    width: 277px;
+    height: 71px;
+    left: 102px;
+    top: 181px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 99.19%;
+
+    letter-spacing: 0.025em;
+}
+
+.subheading {
+    position: absolute;
+    width: 315px;
+    height: 9px;
+    left: 102px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 99.19%;
+    letter-spacing: 0.018em;
+    color: #FFFFFF;
+}
+
+#first {
+    top: 309px;
+}
+
+#second {
+    top: 327px;
+}
+
+#third {
+    top: 345px;
+}
